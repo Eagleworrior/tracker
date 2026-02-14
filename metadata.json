@@ -1,0 +1,9 @@
+{
+  "name": "PulseOmega: Universal Intelligence Engine",
+  "description": "The ultimate real-time multi-modal command center. Track anything, generate anything, find anyone.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
